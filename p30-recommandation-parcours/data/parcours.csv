@@ -1,6 +1,0 @@
-id,nom,description,duree_mois
-P01,Parcours Data Analyst,De zéro à analyste de données : SQL Pandas visualisation et BI,6
-P02,Parcours Data Scientist,Statistiques machine learning deep learning et big data,9
-P03,Parcours DevOps,Linux conteneurs CI/CD cloud et supervision,7
-P04,Parcours Full Stack,Frontend React backend FastAPI et bases de données,8
-P05,Parcours Cybersécurité,Réseaux systèmes cryptographie et sécurité web,7
