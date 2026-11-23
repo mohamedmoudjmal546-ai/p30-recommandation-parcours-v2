@@ -1,0 +1,16 @@
+id,nom,secteur,description
+M01,Data Analyst,Data,Analyse et visualise les données pour éclairer les décisions de l'entreprise
+M02,Data Scientist,Data,Construit des modèles statistiques et prédictifs à partir de grands jeux de données
+M03,Data Engineer,Data,Conçoit et maintient les pipelines et entrepôts de données
+M04,DevOps Engineer,Infrastructure,Automatise le déploiement et l'exploitation des applications
+M05,Ingénieur Cloud,Infrastructure,Conçoit et opère des infrastructures cloud sécurisées et scalables
+M06,Développeur Backend,Développement,Développe les services et API côté serveur
+M07,Développeur Frontend,Développement,Conçoit les interfaces web interactives
+M08,Développeur Full Stack,Développement,Réalise des applications web complètes du frontend au backend
+M09,Ingénieur Machine Learning,IA,Industrialise et déploie des modèles d'apprentissage automatique
+M10,Administrateur Bases de Données,Data,Administre les bases de données et garantit leur performance et disponibilité
+M11,Architecte Logiciel,Développement,Définit l'architecture technique des systèmes d'information
+M12,Ingénieur Cybersécurité,Sécurité,Protège les systèmes et les applications contre les menaces
+M13,Chef de Projet IT,Gestion,Pilote des projets informatiques en coordonnant équipes et parties prenantes
+M14,Analyste BI,Data,Conçoit des tableaux de bord et des entrepôts décisionnels
+M15,Ingénieur QA,Qualité,Garantit la qualité logicielle par l'automatisation des tests

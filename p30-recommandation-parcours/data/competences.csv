@@ -1,0 +1,51 @@
+id,nom,categorie,description
+C01,Python,Programmation,Langage polyvalent pour la data le backend et l'automatisation
+C02,SQL,Bases de données,Langage de requêtes des bases relationnelles
+C03,Java,Programmation,Langage orienté objet pour applications d'entreprise
+C04,JavaScript,Programmation,Langage du web côté client et serveur
+C05,Linux,Systèmes,Utilisation et administration des systèmes Linux en ligne de commande
+C06,Git,Outils,Gestion de versions et travail collaboratif
+C07,Algorithmique,Programmation,Conception d'algorithmes et structures de données
+C08,Programmation orientée objet,Programmation,Classes héritage polymorphisme et patrons de conception
+C09,HTML/CSS,Web,Structure et mise en forme des pages web
+C10,Mathématiques,Data,Algèbre linéaire analyse et probabilités de base
+C11,Statistiques,Data,Statistiques descriptives et inférentielles
+C12,Pandas,Data,Manipulation et nettoyage de données tabulaires
+C13,Visualisation de données,Data,Création de graphiques et tableaux de bord lisibles
+C14,Machine Learning,IA,Apprentissage supervisé et non supervisé
+C15,Deep Learning,IA,Réseaux de neurones profonds
+C16,NLP,IA,Traitement automatique du langage naturel
+C17,Big Data avec Spark,Data,Traitement distribué de grands volumes de données
+C18,ETL,Data,Extraction transformation et chargement de données
+C19,Data Warehouse,Data,Modélisation dimensionnelle et entrepôts de données
+C20,Business Intelligence,Data,Reporting et analyse décisionnelle
+C21,Modélisation de données,Bases de données,Conception conceptuelle et logique des bases de données
+C22,MongoDB,Bases de données,Base de données NoSQL orientée documents
+C23,Neo4j et Cypher,Bases de données,Base de données orientée graphe et son langage de requête
+C24,PostgreSQL,Bases de données,Administration et optimisation de PostgreSQL
+C25,Docker,DevOps,Conteneurisation des applications
+C26,Kubernetes,DevOps,Orchestration de conteneurs
+C27,CI/CD,DevOps,Intégration et déploiement continus
+C28,Terraform,DevOps,Infrastructure as Code
+C29,AWS,Cloud,Services du cloud public Amazon Web Services
+C30,Monitoring,DevOps,Supervision et observabilité des systèmes
+C31,Réseaux,Systèmes,Protocoles TCP/IP DNS HTTP et architecture réseau
+C32,Ansible,DevOps,Automatisation de la configuration des serveurs
+C33,React,Web,Bibliothèque JavaScript pour interfaces utilisateur
+C34,Node.js,Web,Environnement d'exécution JavaScript côté serveur
+C35,API REST,Web,Conception et consommation d'API REST
+C36,FastAPI,Web,Framework Python pour API performantes
+C37,Sécurité web,Sécurité,Protection des applications web contre les attaques courantes
+C38,Sécurité des systèmes,Sécurité,Durcissement et protection des systèmes d'information
+C39,Pentest,Sécurité,Tests d'intrusion et audit de sécurité
+C40,Cryptographie,Sécurité,Chiffrement signature et gestion des clés
+C41,Agile et Scrum,Gestion,Méthodes agiles de conduite de projet
+C42,Gestion de projet,Gestion,Planification suivi des risques et des budgets
+C43,Communication,Soft skills,Communication écrite et orale en équipe
+C44,Anglais technique,Soft skills,Lecture de documentation et communication en anglais
+C45,Data storytelling,Soft skills,Raconter une analyse de données de façon convaincante
+C46,Architecture logicielle,Génie logiciel,Choix et documentation d'architectures applicatives
+C47,Tests logiciels,Génie logiciel,Tests unitaires d'intégration et automatisés
+C48,UX/UI Design,Design,Conception d'expériences et d'interfaces utilisateur
+C49,MLOps,IA,Mise en production et suivi des modèles de machine learning
+C50,Microservices,Génie logiciel,Architecture applicative en services indépendants
