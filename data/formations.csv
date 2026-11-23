@@ -1,0 +1,31 @@
+id,nom,organisme,duree_heures,niveau,modalite,description
+F01,Python et algorithmique,Académie Numérique,40,Débutant,En ligne,Bases de Python et résolution de problèmes algorithmiques
+F02,SQL et modélisation relationnelle,Data School,35,Débutant,Hybride,Requêtes SQL modèle entité-association et PostgreSQL
+F03,Programmation orientée objet,Institut Génie Logiciel,35,Intermédiaire,Présentiel,POO avec Java et patrons de conception
+F04,Linux Bash et Git,Académie Numérique,30,Débutant,En ligne,Ligne de commande Linux scripts Bash et workflow Git
+F05,Réseaux et protocoles,Cloud Campus,30,Débutant,Hybride,Fondamentaux des réseaux TCP/IP DNS et HTTP
+F06,HTML CSS et JavaScript,Web Factory,40,Débutant,En ligne,Création de pages web statiques et dynamiques
+F07,JavaScript avancé et Node.js,Web Factory,45,Intermédiaire,En ligne,JavaScript moderne et développement serveur avec Node.js
+F08,React pour développeurs,Web Factory,35,Intermédiaire,En ligne,Interfaces réactives avec React
+F09,API REST avec FastAPI,Académie Numérique,35,Intermédiaire,En ligne,Conception d'API REST en Python avec FastAPI
+F10,Mathématiques et statistiques pour la data,Data School,50,Intermédiaire,Présentiel,Algèbre probabilités et statistiques appliquées
+F11,Analyse et visualisation de données,Data School,40,Intermédiaire,En ligne,Pandas nettoyage de données et visualisation
+F12,Machine Learning avec scikit-learn,Data School,50,Intermédiaire,Hybride,Modèles supervisés et non supervisés
+F13,Deep Learning et NLP,Data School,60,Avancé,Hybride,Réseaux de neurones et traitement du langage
+F14,MLOps en production,Cloud Campus,40,Avancé,En ligne,Déploiement suivi et réentraînement de modèles
+F15,Big Data avec Spark,Data School,45,Avancé,Présentiel,Traitement distribué avec Apache Spark
+F16,Data Engineering et ETL,Data School,50,Intermédiaire,Hybride,Pipelines de données et orchestration ETL
+F17,Data Warehouse et Business Intelligence,Data School,45,Intermédiaire,Présentiel,Modélisation dimensionnelle et tableaux de bord
+F18,UX/UI Design,Web Factory,30,Débutant,En ligne,Conception centrée utilisateur et maquettage
+F19,MongoDB et bases documents,Data School,25,Intermédiaire,En ligne,Modélisation documentaire et agrégations MongoDB
+F20,Neo4j et bases de graphes,Data School,25,Intermédiaire,Hybride,Modélisation en graphe et requêtes Cypher
+F21,Docker et Kubernetes,Cloud Campus,45,Intermédiaire,En ligne,Conteneurs et orchestration
+F22,CI/CD avec GitHub Actions,Cloud Campus,25,Intermédiaire,En ligne,Pipelines d'intégration et de déploiement continus
+F23,Cloud AWS et Terraform,Cloud Campus,55,Avancé,Hybride,Services AWS et infrastructure as code
+F24,Ansible et Monitoring,Cloud Campus,35,Intermédiaire,En ligne,Automatisation de la configuration et supervision
+F25,Sécurité des systèmes et cryptographie,Cyber Institut,45,Intermédiaire,Présentiel,Durcissement des systèmes et chiffrement
+F26,Sécurité web et pentest,Cyber Institut,50,Avancé,Hybride,Vulnérabilités web et tests d'intrusion
+F27,Agile et gestion de projet IT,Institut Génie Logiciel,30,Débutant,Hybride,Scrum planification et pilotage de projet
+F28,Communication anglais technique et data storytelling,Académie Numérique,30,Débutant,En ligne,Communiquer efficacement et présenter des résultats
+F29,Architecture logicielle et microservices,Institut Génie Logiciel,45,Avancé,Présentiel,Styles d'architecture et conception de microservices
+F30,Tests logiciels et qualité,Institut Génie Logiciel,30,Intermédiaire,En ligne,Tests unitaires d'intégration et automatisation
